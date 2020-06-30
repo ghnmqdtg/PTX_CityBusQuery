@@ -4,6 +4,7 @@ import json
 import configparser
 from urllib import parse
 import Authorization
+import re
 
 config = configparser.ConfigParser()
 config.read("config.ini")
@@ -19,14 +20,13 @@ class Bus:
         self.routename = routename
         self.location = location
         if(direction == "去程"):
-            self.direction = "0"  # 回程
+            self.direction = "1"  # 回程
         elif(direction == "回程"):
-            self.direction = "1"  # 返程
+            self.direction = "2"  # 返程
         else:
-            self.direction = "2"  # 迴圈
+            self.direction = "0"  # 迴圈
 
     def get_Estimated(self):
-        count = 0
         # urllib.parse.quote() URL encode
         QUERY_OPTIONS = parse.quote(self.routename) + "?$format=JSON"
         RESOURCE_PATH = RESOURCE + QUERY_OPTIONS
@@ -36,13 +36,13 @@ class Bus:
 
         for x in data:
             try:
-                aaa = x["SubRouteUID"] + " " + x["StopName"]["Zh_tw"] +  x["SubRouteName"]["Zh_tw"]
-                print(count, aaa)
+                # print(x["SubRouteUID"])
+                if(x["SubRouteUID"].endswith(self.direction)):
+                    if(x["StopName"]["Zh_tw"] == self.location):
+                        time = x["EstimateTime"]
+                        print(self.location, time)
             except:
                 pass
-            count += 1
-
-        # SubRoute_UID = Route_UID_dict[self.routename] + self.direction
 
 
 if __name__ == '__main__':
@@ -53,4 +53,4 @@ if __name__ == '__main__':
         Route_UID_dict = json.loads(outfile.read())
         outfile.close()
 
-    bus = Bus("藍幹線", "  ", "去程").get_Estimated()
+    bus = Bus("藍幹線", "和順", "去程").get_Estimated()

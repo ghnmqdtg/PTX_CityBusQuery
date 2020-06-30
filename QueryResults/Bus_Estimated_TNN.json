@@ -1,1001 +1,3336 @@
 {
-    "UpdateTime": "2020-06-29T11:30:47+08:00",
-    "UpdateInterval": 15,
-    "SrcUpdateTime": "2020-06-29T11:30:45+08:00",
-    "SrcUpdateInterval": -1,
-    "AuthorityCode": "TNN",
-    "N1Datas": [
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101617",
-            "SubRouteID": "101617",
-            "SubRouteName": {
-                "Zh_tw": "18路 塭南里→台南站 [延國民路]",
-                "En": "18 Wunnan Vil.→Tainan(Simen Rd.＆ Wufei St.)[Via Guomin Rd.]"
-            },
-            "Direction": 1,
-            "DestinationStopID": "8919",
-            "DestinationStopName": {
-                "Zh_tw": "國民路",
-                "En": "Guomin Rd."
-            },
-            "StopUID": "TNN10010",
-            "StopID": "10010",
-            "StopName": {
-                "Zh_tw": "台南站",
-                "En": "Tainan(Simen Rd.＆ Wufei St.)"
-            },
-            "PlateNumb": "071-U9",
-            "EstimateTime": 1385,
-            "IsLastBus": false,
-            "CurrentStop": "11110",
-            "StopStatus": 0,
-            "StopCountDown": 20,
-            "DataTime": "2020-06-29T11:30:32+08:00",
-            "RecTime": "2020-06-29T11:30:32+08:00",
-            "TransTime": "2020-06-29T11:30:32+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101613",
-            "SubRouteID": "101613",
-            "SubRouteName": {
-                "Zh_tw": "18路 臺灣歷史博物館(慶和路)→台南站",
-                "En": "18 National Museum of Taiwan History(Cinghe Rd.)→Tainan(Simen Rd.＆ Wufei St.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10014",
-            "StopID": "10014",
-            "StopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 1618,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 6,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10015",
-            "StopID": "10015",
-            "StopName": {
-                "Zh_tw": "台南站",
-                "En": "Tainan(Simen Rd.＆ Wufei St.)"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 0,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 0,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10134",
-            "StopID": "10134",
-            "StopName": {
-                "Zh_tw": "西門路一段",
-                "En": "Sec. 1 Si-Men Road"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 76,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 1,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10135",
-            "StopID": "10135",
-            "StopName": {
-                "Zh_tw": "新光三越新天地",
-                "En": "Shinkong Mitsukoshi Department Store"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 120,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 2,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10136",
-            "StopID": "10136",
-            "StopName": {
-                "Zh_tw": "小西門(大億麗緻)",
-                "En": "Siaosimen(Tayih Landis Hotel)"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 180,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 3,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10137",
-            "StopID": "10137",
-            "StopName": {
-                "Zh_tw": "西門、友愛街口",
-                "En": "Simen Rd.＆Youai St."
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 275,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 4,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10138",
-            "StopID": "10138",
-            "StopName": {
-                "Zh_tw": "西門、民權路口",
-                "En": "Simen Rd.＆ Mincyuan Rd."
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 367,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 5,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10139",
-            "StopID": "10139",
-            "StopName": {
-                "Zh_tw": "西門路三段口",
-                "En": "Sec. 3 Si-Men Road Intersection"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 486,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 6,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10140",
-            "StopID": "10140",
-            "StopName": {
-                "Zh_tw": "成功國小",
-                "En": "Cheng-Gong Elementary School"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 556,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 7,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10141",
-            "StopID": "10141",
-            "StopName": {
-                "Zh_tw": "光復市場",
-                "En": "Guang-Fu Market"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 593,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 8,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10142",
-            "StopID": "10142",
-            "StopName": {
-                "Zh_tw": "大道公廟",
-                "En": "Dadaogong Temple"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 647,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 9,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10143",
-            "StopID": "10143",
-            "StopName": {
-                "Zh_tw": "臺南火車站(南站)",
-                "En": "Tainan Train Station(South)"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 817,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 10,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10144",
-            "StopID": "10144",
-            "StopName": {
-                "Zh_tw": "公園南路",
-                "En": "Gong-Yuan South Road"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 978,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 11,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10145",
-            "StopID": "10145",
-            "StopName": {
-                "Zh_tw": "臺南轉運站",
-                "En": "Tainan Bus Station"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 1007,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 12,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10146",
-            "StopID": "10146",
-            "StopName": {
-                "Zh_tw": "寮內",
-                "En": "Liaonei"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 1060,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 14,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101612",
-            "SubRouteID": "101612",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→臺灣歷史博物館(慶和路)",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→National Museum of Taiwan History(Cinghe Rd.)"
-            },
-            "Direction": 0,
-            "DestinationStopID": "-1",
-            "DestinationStopName": {},
-            "StopUID": "TNN10147",
-            "StopID": "10147",
-            "StopName": {
-                "Zh_tw": "延平國中",
-                "En": "Yenping Junior High School"
-            },
-            "PlateNumb": "-1",
-            "EstimateTime": 1123,
-            "IsLastBus": false,
-            "CurrentStop": "-1",
-            "StopStatus": 1,
-            "StopCountDown": 16,
-            "DataTime": "2020-06-29T11:30:37+08:00",
-            "RecTime": "2020-06-29T11:30:37+08:00",
-            "TransTime": "2020-06-29T11:30:37+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteName": {},
-            "Direction": 0,
-            "DestinationStopID": "",
-            "DestinationStopName": {},
-            "StopUID": "TNN10148",
-            "StopID": "10148",
-            "StopName": {
-                "Zh_tw": "延平市場(長榮路)",
-                "En": "Yanping Market(Changrong Rd.)"
-            },
-            "PlateNumb": "-1",
-            "IsLastBus": false,
-            "CurrentStop": "",
-            "StopStatus": 2,
-            "DataTime": "2020-06-29T11:29:30+08:00",
-            "RecTime": "2020-06-29T11:29:30+08:00",
-            "TransTime": "2020-06-29T11:29:30+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10149",
-            "StopID": "10149",
-            "StopName": {
-                "Zh_tw": "正風里",
-                "En": "Jhengfong Village"
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 326,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 7,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10150",
-            "StopID": "10150",
-            "StopName": {
-                "Zh_tw": "正覺里",
-                "En": "Jhengjyue Vil."
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 372,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 8,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10151",
-            "StopID": "10151",
-            "StopName": {
-                "Zh_tw": "六甲頂",
-                "En": "Lioujiading"
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 415,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 9,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10152",
-            "StopID": "10152",
-            "StopName": {
-                "Zh_tw": "溪頂寮橋",
-                "En": "Sidingliao Bridge"
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 659,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 10,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10153",
-            "StopID": "10153",
-            "StopName": {
-                "Zh_tw": "南安順",
-                "En": "South of An-Shun"
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 700,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 11,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10154",
-            "StopID": "10154",
-            "StopName": {
-                "Zh_tw": "安順派出所",
-                "En": "Anshun Police Station"
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 760,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 12,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10155",
-            "StopID": "10155",
-            "StopName": {
-                "Zh_tw": "安順市場",
-                "En": "An-Shun Market"
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 803,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 13,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10156",
-            "StopID": "10156",
-            "StopName": {
-                "Zh_tw": "安順",
-                "En": "Anshun"
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 837,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 14,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10157",
-            "StopID": "10157",
-            "StopName": {
-                "Zh_tw": "北安順",
-                "En": "North Anshun"
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 912,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 16,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10158",
-            "StopID": "10158",
-            "StopName": {
-                "Zh_tw": "七號橋",
-                "En": "No.7 Bridge"
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 956,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 17,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10159",
-            "StopID": "10159",
-            "StopName": {
-                "Zh_tw": "新和順",
-                "En": "Sinheshun"
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 1008,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 19,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        },
-        {
-            "RouteUID": "TNN10161",
-            "RouteID": "10161",
-            "RouteName": {
-                "Zh_tw": "18",
-                "En": "18"
-            },
-            "SubRouteUID": "TNN101616",
-            "SubRouteID": "101616",
-            "SubRouteName": {
-                "Zh_tw": "18路 台南站→塭南里 [延國民路]",
-                "En": "18 Tainan(Simen Rd.＆ Wufei St.)→Wunnan Vil.[Via Guomin Rd.]"
-            },
-            "Direction": 0,
-            "DestinationStopID": "11093",
-            "DestinationStopName": {
-                "Zh_tw": "塭南里",
-                "En": "Wunnan Village"
-            },
-            "StopUID": "TNN10160",
-            "StopID": "10160",
-            "StopName": {
-                "Zh_tw": "政安路口",
-                "En": "Jheng-An Rd. Intersection"
-            },
-            "PlateNumb": "405-U9",
-            "EstimateTime": 976,
-            "IsLastBus": false,
-            "CurrentStop": "10147",
-            "StopStatus": 0,
-            "StopCountDown": 18,
-            "DataTime": "2020-06-29T11:29:35+08:00",
-            "RecTime": "2020-06-29T11:29:35+08:00",
-            "TransTime": "2020-06-29T11:29:35+08:00"
-        }
-    ]
+  "UpdateTime": "2020-06-30T17:16:51+08:00",
+  "UpdateInterval": 15,
+  "SrcUpdateTime": "2020-06-30T17:16:34+08:00",
+  "SrcUpdateInterval": -1,
+  "AuthorityCode": "TNN",
+  "N1Datas": [
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN17578",
+      "StopID": "17578",
+      "StopName": {
+        "Zh_tw": "台南醫院",
+        "En": "Tainan Hospital"
+      },
+      "PlateNumb": "093-U9",
+      "EstimateTime": 482,
+      "IsLastBus": false,
+      "CurrentStop": "5724",
+      "StopStatus": 0,
+      "StopCountDown": 4,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN17579",
+      "StopID": "17579",
+      "StopName": {
+        "Zh_tw": "台南醫院",
+        "En": "Tainan Hospital"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 1322,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 12,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN21070",
+      "StopID": "21070",
+      "StopName": {
+        "Zh_tw": "政安路口",
+        "En": "Jheng-An Rd. Intersection"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 1496,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 13,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN21071",
+      "StopID": "21071",
+      "StopName": {
+        "Zh_tw": "政安路口",
+        "En": "Jheng-An Rd. Intersection"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 1340,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 13,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "-1",
+      "DestinationStopName": {},
+      "StopUID": "TNN5716",
+      "StopID": "5716",
+      "StopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "PlateNumb": "-1",
+      "EstimateTime": 807,
+      "IsLastBus": false,
+      "CurrentStop": "-1",
+      "StopStatus": 1,
+      "StopCountDown": 0,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5717",
+      "StopID": "5717",
+      "StopName": {
+        "Zh_tw": "安平港",
+        "En": "Anping Harbor"
+      },
+      "PlateNumb": "428-U9",
+      "EstimateTime": 107,
+      "IsLastBus": false,
+      "CurrentStop": "5716",
+      "StopStatus": 0,
+      "StopCountDown": 1,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5718",
+      "StopID": "5718",
+      "StopName": {
+        "Zh_tw": "服務中心",
+        "En": "Service Center"
+      },
+      "PlateNumb": "428-U9",
+      "EstimateTime": 138,
+      "IsLastBus": false,
+      "CurrentStop": "5716",
+      "StopStatus": 0,
+      "StopCountDown": 2,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5719",
+      "StopID": "5719",
+      "StopName": {
+        "Zh_tw": "香腸博物館",
+        "En": "Sausage Museum"
+      },
+      "PlateNumb": "428-U9",
+      "EstimateTime": 282,
+      "IsLastBus": false,
+      "CurrentStop": "5716",
+      "StopStatus": 0,
+      "StopCountDown": 3,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5720",
+      "StopID": "5720",
+      "StopName": {
+        "Zh_tw": "文南里",
+        "En": "Wunnan Vil."
+      },
+      "PlateNumb": "428-U9",
+      "EstimateTime": 474,
+      "IsLastBus": false,
+      "CurrentStop": "5716",
+      "StopStatus": 0,
+      "StopCountDown": 4,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5721",
+      "StopID": "5721",
+      "StopName": {
+        "Zh_tw": "家樂福",
+        "En": "Carrefour"
+      },
+      "PlateNumb": "428-U9",
+      "EstimateTime": 641,
+      "IsLastBus": false,
+      "CurrentStop": "5716",
+      "StopStatus": 0,
+      "StopCountDown": 5,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5722",
+      "StopID": "5722",
+      "StopName": {
+        "Zh_tw": "水萍塭公園",
+        "En": "Shueipingwun Park"
+      },
+      "PlateNumb": "428-U9",
+      "EstimateTime": 732,
+      "IsLastBus": false,
+      "CurrentStop": "5716",
+      "StopStatus": 0,
+      "StopCountDown": 6,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5723",
+      "StopID": "5723",
+      "StopName": {
+        "Zh_tw": "永華站",
+        "En": "Yonghua Bus Station"
+      },
+      "PlateNumb": "428-U9",
+      "EstimateTime": 847,
+      "IsLastBus": false,
+      "CurrentStop": "5716",
+      "StopStatus": 0,
+      "StopCountDown": 7,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5724",
+      "StopID": "5724",
+      "StopName": {
+        "Zh_tw": "小西門(大億麗緻)",
+        "En": "Siaosimen(Tayih Landis Hotel)"
+      },
+      "PlateNumb": "428-U9",
+      "EstimateTime": 984,
+      "IsLastBus": false,
+      "CurrentStop": "5716",
+      "StopStatus": 0,
+      "StopCountDown": 8,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5725",
+      "StopID": "5725",
+      "StopName": {
+        "Zh_tw": "小西門",
+        "En": "Siaosimen"
+      },
+      "PlateNumb": "093-U9",
+      "EstimateTime": 35,
+      "IsLastBus": false,
+      "CurrentStop": "5724",
+      "StopStatus": 0,
+      "StopCountDown": 1,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5726",
+      "StopID": "5726",
+      "StopName": {
+        "Zh_tw": "林百貨(忠義路)",
+        "En": "Hayashi Department Store (Jhongyi Rd.)"
+      },
+      "PlateNumb": "093-U9",
+      "EstimateTime": 153,
+      "IsLastBus": false,
+      "CurrentStop": "5724",
+      "StopStatus": 0,
+      "StopCountDown": 2,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5727",
+      "StopID": "5727",
+      "StopName": {
+        "Zh_tw": "中山、民權路口",
+        "En": "Jhongshan Rd.＆Mincyuan Rd."
+      },
+      "PlateNumb": "093-U9",
+      "EstimateTime": 360,
+      "IsLastBus": false,
+      "CurrentStop": "5724",
+      "StopStatus": 0,
+      "StopCountDown": 3,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5728",
+      "StopID": "5728",
+      "StopName": {
+        "Zh_tw": "臺南火車站(北站)",
+        "En": "Tainan Train Station(North)"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 162,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 1,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5729",
+      "StopID": "5729",
+      "StopName": {
+        "Zh_tw": "公園路",
+        "En": "Gongyuan Rd."
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 303,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 2,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5730",
+      "StopID": "5730",
+      "StopName": {
+        "Zh_tw": "臺南轉運站",
+        "En": "Tainan Bus Station"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 366,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 3,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5731",
+      "StopID": "5731",
+      "StopName": {
+        "Zh_tw": "公園北路口",
+        "En": "Gongyuan N. Rd. Intersection"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 441,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 4,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5732",
+      "StopID": "5732",
+      "StopName": {
+        "Zh_tw": "建成市場",
+        "En": "Jiancheng Market"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 577,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 5,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5733",
+      "StopID": "5733",
+      "StopName": {
+        "Zh_tw": "延平市場(公園路)",
+        "En": "Yanping Market(Gong-Yuan Rd.)"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 721,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 6,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5734",
+      "StopID": "5734",
+      "StopName": {
+        "Zh_tw": "正覺里",
+        "En": "Jhengjyue Vil."
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 829,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 7,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5735",
+      "StopID": "5735",
+      "StopName": {
+        "Zh_tw": "六甲頂",
+        "En": "Lioujiading"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 890,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 8,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5736",
+      "StopID": "5736",
+      "StopName": {
+        "Zh_tw": "溪頂寮橋",
+        "En": "Sidingliao Bridge"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 1076,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 9,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5737",
+      "StopID": "5737",
+      "StopName": {
+        "Zh_tw": "安順派出所",
+        "En": "Anshun Police Station"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 1190,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 10,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5738",
+      "StopID": "5738",
+      "StopName": {
+        "Zh_tw": "安順",
+        "En": "Anshun"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 1298,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 11,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5739",
+      "StopID": "5739",
+      "StopName": {
+        "Zh_tw": "北安順",
+        "En": "North Anshun"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 1401,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 12,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5740",
+      "StopID": "5740",
+      "StopName": {
+        "Zh_tw": "新和順",
+        "En": "Sinheshun"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 1538,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 14,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5741",
+      "StopID": "5741",
+      "StopName": {
+        "Zh_tw": "安順國中",
+        "En": "An-Shun Junior High School"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 1608,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 15,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5742",
+      "StopID": "5742",
+      "StopName": {
+        "Zh_tw": "舊和順北",
+        "En": "North Jiouheshun"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 1728,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 16,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5743",
+      "StopID": "5743",
+      "StopName": {
+        "Zh_tw": "福國寺",
+        "En": "Fuguo Temple"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 1839,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 18,
+      "DataTime": "2020-06-30T17:15:39+08:00",
+      "RecTime": "2020-06-30T17:15:39+08:00",
+      "TransTime": "2020-06-30T17:15:39+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5744",
+      "StopID": "5744",
+      "StopName": {
+        "Zh_tw": "和順",
+        "En": "Heshun"
+      },
+      "PlateNumb": "KKA-7371",
+      "EstimateTime": 0,
+      "IsLastBus": false,
+      "CurrentStop": "5744",
+      "StopStatus": 0,
+      "StopCountDown": 0,
+      "DataTime": "2020-06-30T17:15:59+08:00",
+      "RecTime": "2020-06-30T17:15:59+08:00",
+      "TransTime": "2020-06-30T17:15:59+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5745",
+      "StopID": "5745",
+      "StopName": {
+        "Zh_tw": "和順國小",
+        "En": "Heshun Elementary School"
+      },
+      "PlateNumb": "KKA-7371",
+      "EstimateTime": 62,
+      "IsLastBus": false,
+      "CurrentStop": "5744",
+      "StopStatus": 0,
+      "StopCountDown": 1,
+      "DataTime": "2020-06-30T17:15:59+08:00",
+      "RecTime": "2020-06-30T17:15:59+08:00",
+      "TransTime": "2020-06-30T17:15:59+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5746",
+      "StopID": "5746",
+      "StopName": {
+        "Zh_tw": "北和順",
+        "En": "North Heshun"
+      },
+      "PlateNumb": "KKA-7371",
+      "EstimateTime": 127,
+      "IsLastBus": false,
+      "CurrentStop": "5744",
+      "StopStatus": 0,
+      "StopCountDown": 2,
+      "DataTime": "2020-06-30T17:15:59+08:00",
+      "RecTime": "2020-06-30T17:15:59+08:00",
+      "TransTime": "2020-06-30T17:15:59+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5747",
+      "StopID": "5747",
+      "StopName": {
+        "Zh_tw": "沙崙路口",
+        "En": "Shalun Rd."
+      },
+      "PlateNumb": "KKA-7371",
+      "EstimateTime": 208,
+      "IsLastBus": false,
+      "CurrentStop": "5744",
+      "StopStatus": 0,
+      "StopCountDown": 3,
+      "DataTime": "2020-06-30T17:15:59+08:00",
+      "RecTime": "2020-06-30T17:15:59+08:00",
+      "TransTime": "2020-06-30T17:15:59+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5748",
+      "StopID": "5748",
+      "StopName": {
+        "Zh_tw": "中崙",
+        "En": "Jhonglun"
+      },
+      "PlateNumb": "KKA-7371",
+      "EstimateTime": 318,
+      "IsLastBus": false,
+      "CurrentStop": "5744",
+      "StopStatus": 0,
+      "StopCountDown": 4,
+      "DataTime": "2020-06-30T17:15:59+08:00",
+      "RecTime": "2020-06-30T17:15:59+08:00",
+      "TransTime": "2020-06-30T17:15:59+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5749",
+      "StopID": "5749",
+      "StopName": {
+        "Zh_tw": "新吉",
+        "En": "Sinji"
+      },
+      "PlateNumb": "KKA-7371",
+      "EstimateTime": 418,
+      "IsLastBus": false,
+      "CurrentStop": "5744",
+      "StopStatus": 0,
+      "StopCountDown": 5,
+      "DataTime": "2020-06-30T17:15:59+08:00",
+      "RecTime": "2020-06-30T17:15:59+08:00",
+      "TransTime": "2020-06-30T17:15:59+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5750",
+      "StopID": "5750",
+      "StopName": {
+        "Zh_tw": "海寮",
+        "En": "Hailiao"
+      },
+      "PlateNumb": "KKA-7371",
+      "EstimateTime": 575,
+      "IsLastBus": false,
+      "CurrentStop": "5744",
+      "StopStatus": 0,
+      "StopCountDown": 6,
+      "DataTime": "2020-06-30T17:15:59+08:00",
+      "RecTime": "2020-06-30T17:15:59+08:00",
+      "TransTime": "2020-06-30T17:15:59+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5751",
+      "StopID": "5751",
+      "StopName": {
+        "Zh_tw": "南西港",
+        "En": "South Sigang"
+      },
+      "PlateNumb": "KKA-7371",
+      "EstimateTime": 960,
+      "IsLastBus": false,
+      "CurrentStop": "5744",
+      "StopStatus": 0,
+      "StopCountDown": 7,
+      "DataTime": "2020-06-30T17:16:11+08:00",
+      "RecTime": "2020-06-30T17:16:11+08:00",
+      "TransTime": "2020-06-30T17:16:11+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5752",
+      "StopID": "5752",
+      "StopName": {
+        "Zh_tw": "西港",
+        "En": "Sigang"
+      },
+      "PlateNumb": "695-FS",
+      "EstimateTime": 64,
+      "IsLastBus": false,
+      "CurrentStop": "5751",
+      "StopStatus": 0,
+      "StopCountDown": 1,
+      "DataTime": "2020-06-30T17:15:39+08:00",
+      "RecTime": "2020-06-30T17:15:39+08:00",
+      "TransTime": "2020-06-30T17:15:39+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5753",
+      "StopID": "5753",
+      "StopName": {
+        "Zh_tw": "期美科技公司",
+        "En": "Tonic Fitness Technology Inc."
+      },
+      "PlateNumb": "695-FS",
+      "EstimateTime": 171,
+      "IsLastBus": false,
+      "CurrentStop": "5751",
+      "StopStatus": 0,
+      "StopCountDown": 2,
+      "DataTime": "2020-06-30T17:15:39+08:00",
+      "RecTime": "2020-06-30T17:15:39+08:00",
+      "TransTime": "2020-06-30T17:15:39+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5754",
+      "StopID": "5754",
+      "StopName": {
+        "Zh_tw": "北西港",
+        "En": "North Sigang"
+      },
+      "PlateNumb": "695-FS",
+      "EstimateTime": 210,
+      "IsLastBus": false,
+      "CurrentStop": "5751",
+      "StopStatus": 0,
+      "StopCountDown": 3,
+      "DataTime": "2020-06-30T17:15:39+08:00",
+      "RecTime": "2020-06-30T17:15:39+08:00",
+      "TransTime": "2020-06-30T17:15:39+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5755",
+      "StopID": "5755",
+      "StopName": {
+        "Zh_tw": "頂中洲",
+        "En": "Dingjhongjhou"
+      },
+      "PlateNumb": "695-FS",
+      "EstimateTime": 288,
+      "IsLastBus": false,
+      "CurrentStop": "5751",
+      "StopStatus": 0,
+      "StopCountDown": 4,
+      "DataTime": "2020-06-30T17:15:39+08:00",
+      "RecTime": "2020-06-30T17:15:39+08:00",
+      "TransTime": "2020-06-30T17:15:39+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5756",
+      "StopID": "5756",
+      "StopName": {
+        "Zh_tw": "三五甲",
+        "En": "Sanwujia"
+      },
+      "PlateNumb": "695-FS",
+      "EstimateTime": 550,
+      "IsLastBus": false,
+      "CurrentStop": "5751",
+      "StopStatus": 0,
+      "StopCountDown": 5,
+      "DataTime": "2020-06-30T17:15:39+08:00",
+      "RecTime": "2020-06-30T17:15:39+08:00",
+      "TransTime": "2020-06-30T17:15:39+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5757",
+      "StopID": "5757",
+      "StopName": {
+        "Zh_tw": "南勢",
+        "En": "Nanshih"
+      },
+      "PlateNumb": "695-FS",
+      "EstimateTime": 651,
+      "IsLastBus": false,
+      "CurrentStop": "5751",
+      "StopStatus": 0,
+      "StopCountDown": 6,
+      "DataTime": "2020-06-30T17:15:39+08:00",
+      "RecTime": "2020-06-30T17:15:39+08:00",
+      "TransTime": "2020-06-30T17:15:39+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5758",
+      "StopID": "5758",
+      "StopName": {
+        "Zh_tw": "南佳里",
+        "En": "South Jiali"
+      },
+      "PlateNumb": "695-FS",
+      "EstimateTime": 731,
+      "IsLastBus": false,
+      "CurrentStop": "5751",
+      "StopStatus": 0,
+      "StopCountDown": 7,
+      "DataTime": "2020-06-30T17:15:39+08:00",
+      "RecTime": "2020-06-30T17:15:39+08:00",
+      "TransTime": "2020-06-30T17:15:39+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN5759",
+      "StopID": "5759",
+      "StopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "PlateNumb": "695-FS",
+      "EstimateTime": 936,
+      "IsLastBus": false,
+      "CurrentStop": "5751",
+      "StopStatus": 0,
+      "StopCountDown": 8,
+      "DataTime": "2020-06-30T17:15:39+08:00",
+      "RecTime": "2020-06-30T17:15:39+08:00",
+      "TransTime": "2020-06-30T17:15:39+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 0,
+      "DestinationStopID": "-1",
+      "DestinationStopName": {},
+      "StopUID": "TNN5760",
+      "StopID": "5760",
+      "StopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "PlateNumb": "-1",
+      "EstimateTime": 0,
+      "IsLastBus": false,
+      "CurrentStop": "-1",
+      "StopStatus": 1,
+      "StopCountDown": 0,
+      "DataTime": "2020-06-30T17:15:05+08:00",
+      "RecTime": "2020-06-30T17:15:05+08:00",
+      "TransTime": "2020-06-30T17:15:05+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 0,
+      "DestinationStopID": "-1",
+      "DestinationStopName": {},
+      "StopUID": "TNN5761",
+      "StopID": "5761",
+      "StopName": {
+        "Zh_tw": "愛明橋",
+        "En": "Aiming Bridge"
+      },
+      "PlateNumb": "-1",
+      "EstimateTime": 118,
+      "IsLastBus": false,
+      "CurrentStop": "-1",
+      "StopStatus": 1,
+      "StopCountDown": 1,
+      "DataTime": "2020-06-30T17:15:05+08:00",
+      "RecTime": "2020-06-30T17:15:05+08:00",
+      "TransTime": "2020-06-30T17:15:05+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 0,
+      "DestinationStopID": "-1",
+      "DestinationStopName": {},
+      "StopUID": "TNN5762",
+      "StopID": "5762",
+      "StopName": {
+        "Zh_tw": "南佳里",
+        "En": "South Jiali"
+      },
+      "PlateNumb": "-1",
+      "EstimateTime": 285,
+      "IsLastBus": false,
+      "CurrentStop": "-1",
+      "StopStatus": 1,
+      "StopCountDown": 2,
+      "DataTime": "2020-06-30T17:15:05+08:00",
+      "RecTime": "2020-06-30T17:15:05+08:00",
+      "TransTime": "2020-06-30T17:15:05+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 0,
+      "DestinationStopID": "-1",
+      "DestinationStopName": {},
+      "StopUID": "TNN5763",
+      "StopID": "5763",
+      "StopName": {
+        "Zh_tw": "南勢",
+        "En": "Nanshih"
+      },
+      "PlateNumb": "-1",
+      "EstimateTime": 368,
+      "IsLastBus": false,
+      "CurrentStop": "-1",
+      "StopStatus": 1,
+      "StopCountDown": 3,
+      "DataTime": "2020-06-30T17:15:05+08:00",
+      "RecTime": "2020-06-30T17:15:05+08:00",
+      "TransTime": "2020-06-30T17:15:05+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 0,
+      "DestinationStopID": "-1",
+      "DestinationStopName": {},
+      "StopUID": "TNN5764",
+      "StopID": "5764",
+      "StopName": {
+        "Zh_tw": "三五甲",
+        "En": "Sanwujia"
+      },
+      "PlateNumb": "-1",
+      "EstimateTime": 472,
+      "IsLastBus": false,
+      "CurrentStop": "-1",
+      "StopStatus": 1,
+      "StopCountDown": 4,
+      "DataTime": "2020-06-30T17:15:05+08:00",
+      "RecTime": "2020-06-30T17:15:05+08:00",
+      "TransTime": "2020-06-30T17:15:05+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 0,
+      "DestinationStopID": "-1",
+      "DestinationStopName": {},
+      "StopUID": "TNN5765",
+      "StopID": "5765",
+      "StopName": {
+        "Zh_tw": "頂中洲",
+        "En": "Dingjhongjhou"
+      },
+      "PlateNumb": "-1",
+      "EstimateTime": 754,
+      "IsLastBus": false,
+      "CurrentStop": "-1",
+      "StopStatus": 1,
+      "StopCountDown": 5,
+      "DataTime": "2020-06-30T17:15:05+08:00",
+      "RecTime": "2020-06-30T17:15:05+08:00",
+      "TransTime": "2020-06-30T17:15:05+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 0,
+      "DestinationStopID": "-1",
+      "DestinationStopName": {},
+      "StopUID": "TNN5766",
+      "StopID": "5766",
+      "StopName": {
+        "Zh_tw": "北西港",
+        "En": "North Sigang"
+      },
+      "PlateNumb": "-1",
+      "EstimateTime": 855,
+      "IsLastBus": false,
+      "CurrentStop": "-1",
+      "StopStatus": 1,
+      "StopCountDown": 6,
+      "DataTime": "2020-06-30T17:15:05+08:00",
+      "RecTime": "2020-06-30T17:15:05+08:00",
+      "TransTime": "2020-06-30T17:15:05+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 0,
+      "DestinationStopID": "-1",
+      "DestinationStopName": {},
+      "StopUID": "TNN5767",
+      "StopID": "5767",
+      "StopName": {
+        "Zh_tw": "期美科技公司",
+        "En": "Tonic Fitness Technology Inc."
+      },
+      "PlateNumb": "-1",
+      "EstimateTime": 894,
+      "IsLastBus": false,
+      "CurrentStop": "-1",
+      "StopStatus": 1,
+      "StopCountDown": 7,
+      "DataTime": "2020-06-30T17:15:05+08:00",
+      "RecTime": "2020-06-30T17:15:05+08:00",
+      "TransTime": "2020-06-30T17:15:05+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 0,
+      "DestinationStopID": "-1",
+      "DestinationStopName": {},
+      "StopUID": "TNN5768",
+      "StopID": "5768",
+      "StopName": {
+        "Zh_tw": "西港",
+        "En": "Sigang"
+      },
+      "PlateNumb": "-1",
+      "EstimateTime": 990,
+      "IsLastBus": false,
+      "CurrentStop": "-1",
+      "StopStatus": 1,
+      "StopCountDown": 8,
+      "DataTime": "2020-06-30T17:15:05+08:00",
+      "RecTime": "2020-06-30T17:15:05+08:00",
+      "TransTime": "2020-06-30T17:15:05+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 0,
+      "DestinationStopID": "-1",
+      "DestinationStopName": {},
+      "StopUID": "TNN5769",
+      "StopID": "5769",
+      "StopName": {
+        "Zh_tw": "南西港",
+        "En": "South Sigang"
+      },
+      "PlateNumb": "-1",
+      "EstimateTime": 1095,
+      "IsLastBus": false,
+      "CurrentStop": "-1",
+      "StopStatus": 1,
+      "StopCountDown": 9,
+      "DataTime": "2020-06-30T17:16:05+08:00",
+      "RecTime": "2020-06-30T17:16:05+08:00",
+      "TransTime": "2020-06-30T17:16:05+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5770",
+      "StopID": "5770",
+      "StopName": {
+        "Zh_tw": "海寮",
+        "En": "Hailiao"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 294,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 1,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5771",
+      "StopID": "5771",
+      "StopName": {
+        "Zh_tw": "新吉",
+        "En": "Sinji"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 452,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 2,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5772",
+      "StopID": "5772",
+      "StopName": {
+        "Zh_tw": "中崙",
+        "En": "Jhonglun"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 550,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 3,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5773",
+      "StopID": "5773",
+      "StopName": {
+        "Zh_tw": "沙崙路口",
+        "En": "Shalun Rd."
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 679,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 4,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5774",
+      "StopID": "5774",
+      "StopName": {
+        "Zh_tw": "北和順",
+        "En": "North Heshun"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 729,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 5,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5775",
+      "StopID": "5775",
+      "StopName": {
+        "Zh_tw": "和順國小",
+        "En": "Heshun Elementary School"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 782,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 6,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5776",
+      "StopID": "5776",
+      "StopName": {
+        "Zh_tw": "和順",
+        "En": "Heshun"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 850,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 7,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5777",
+      "StopID": "5777",
+      "StopName": {
+        "Zh_tw": "福國寺",
+        "En": "Fuguo Temple"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 934,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 8,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5778",
+      "StopID": "5778",
+      "StopName": {
+        "Zh_tw": "舊和順北",
+        "En": "North Jiouheshun"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 1076,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 10,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5779",
+      "StopID": "5779",
+      "StopName": {
+        "Zh_tw": "安順國中",
+        "En": "An-Shun Junior High School"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 1172,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 11,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5780",
+      "StopID": "5780",
+      "StopName": {
+        "Zh_tw": "新和順",
+        "En": "Sinheshun"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 1292,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 12,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5781",
+      "StopID": "5781",
+      "StopName": {
+        "Zh_tw": "北安順",
+        "En": "North Anshun"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 1410,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 14,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5782",
+      "StopID": "5782",
+      "StopName": {
+        "Zh_tw": "安順",
+        "En": "Anshun"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 1542,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 15,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5783",
+      "StopID": "5783",
+      "StopName": {
+        "Zh_tw": "安順派出所",
+        "En": "Anshun Police Station"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 53,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 1,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5784",
+      "StopID": "5784",
+      "StopName": {
+        "Zh_tw": "溪頂寮橋",
+        "En": "Sidingliao Bridge"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 185,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 2,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5785",
+      "StopID": "5785",
+      "StopName": {
+        "Zh_tw": "六甲頂",
+        "En": "Lioujiading"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 448,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 3,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5786",
+      "StopID": "5786",
+      "StopName": {
+        "Zh_tw": "正覺里",
+        "En": "Jhengjyue Vil."
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 520,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 4,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5787",
+      "StopID": "5787",
+      "StopName": {
+        "Zh_tw": "延平市場(公園路)",
+        "En": "Yanping Market(Gong-Yuan Rd.)"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 642,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 5,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5788",
+      "StopID": "5788",
+      "StopName": {
+        "Zh_tw": "建成市場",
+        "En": "Jiancheng Market"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 794,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 6,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5789",
+      "StopID": "5789",
+      "StopName": {
+        "Zh_tw": "公園北路口",
+        "En": "Gongyuan N. Rd. Intersection"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 916,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 7,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5790",
+      "StopID": "5790",
+      "StopName": {
+        "Zh_tw": "臺南轉運站",
+        "En": "Tainan Bus Station"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 991,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 8,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5791",
+      "StopID": "5791",
+      "StopName": {
+        "Zh_tw": "公園路",
+        "En": "Gongyuan Rd."
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 1052,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 9,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5792",
+      "StopID": "5792",
+      "StopName": {
+        "Zh_tw": "成功路",
+        "En": "Chenggong Rd."
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 1152,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 10,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5793",
+      "StopID": "5793",
+      "StopName": {
+        "Zh_tw": "臺南火車站(南站)",
+        "En": "Tainan Train Station(South)"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 1183,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 11,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5794",
+      "StopID": "5794",
+      "StopName": {
+        "Zh_tw": "中山、民權路口",
+        "En": "Jhongshan Rd.＆Mincyuan Rd."
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 1424,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 13,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5795",
+      "StopID": "5795",
+      "StopName": {
+        "Zh_tw": "林百貨(忠義路)",
+        "En": "Hayashi Department Store (Jhongyi Rd.)"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 1587,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 14,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5796",
+      "StopID": "5796",
+      "StopName": {
+        "Zh_tw": "小西門",
+        "En": "Siaosimen"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 1716,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 15,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5797",
+      "StopID": "5797",
+      "StopName": {
+        "Zh_tw": "小西門(大億麗緻)",
+        "En": "Siaosimen(Tayih Landis Hotel)"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 1778,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 16,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5798",
+      "StopID": "5798",
+      "StopName": {
+        "Zh_tw": "永華站",
+        "En": "Yonghua Bus Station"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 1914,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 17,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5799",
+      "StopID": "5799",
+      "StopName": {
+        "Zh_tw": "水萍塭公園",
+        "En": "Shueipingwun Park"
+      },
+      "PlateNumb": "687-FS",
+      "EstimateTime": 2001,
+      "IsLastBus": false,
+      "CurrentStop": "5782",
+      "StopStatus": 0,
+      "StopCountDown": 18,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5800",
+      "StopID": "5800",
+      "StopName": {
+        "Zh_tw": "家樂福",
+        "En": "Carrefour"
+      },
+      "PlateNumb": "425-U9",
+      "EstimateTime": 131,
+      "IsLastBus": false,
+      "CurrentStop": "5799",
+      "StopStatus": 0,
+      "StopCountDown": 1,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5801",
+      "StopID": "5801",
+      "StopName": {
+        "Zh_tw": "文南里",
+        "En": "Wunnan Vil."
+      },
+      "PlateNumb": "425-U9",
+      "EstimateTime": 204,
+      "IsLastBus": false,
+      "CurrentStop": "5799",
+      "StopStatus": 0,
+      "StopCountDown": 2,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5802",
+      "StopID": "5802",
+      "StopName": {
+        "Zh_tw": "香腸博物館",
+        "En": "Sausage Museum"
+      },
+      "PlateNumb": "425-U9",
+      "EstimateTime": 327,
+      "IsLastBus": false,
+      "CurrentStop": "5799",
+      "StopStatus": 0,
+      "StopCountDown": 3,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5803",
+      "StopID": "5803",
+      "StopName": {
+        "Zh_tw": "服務中心",
+        "En": "Service Center"
+      },
+      "PlateNumb": "425-U9",
+      "EstimateTime": 483,
+      "IsLastBus": false,
+      "CurrentStop": "5799",
+      "StopStatus": 0,
+      "StopCountDown": 4,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5804",
+      "StopID": "5804",
+      "StopName": {
+        "Zh_tw": "安平港",
+        "En": "Anping Harbor"
+      },
+      "PlateNumb": "425-U9",
+      "EstimateTime": 536,
+      "IsLastBus": false,
+      "CurrentStop": "5799",
+      "StopStatus": 0,
+      "StopCountDown": 5,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN5805",
+      "StopID": "5805",
+      "StopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "PlateNumb": "425-U9",
+      "EstimateTime": 636,
+      "IsLastBus": false,
+      "CurrentStop": "5799",
+      "StopStatus": 0,
+      "StopCountDown": 6,
+      "DataTime": "2020-06-30T17:16:33+08:00",
+      "RecTime": "2020-06-30T17:16:33+08:00",
+      "TransTime": "2020-06-30T17:16:33+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120001",
+      "SubRouteID": "120001",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 安平工業區→佳里",
+        "En": "Blue Anping Industrial Park→Jiali Bus Station"
+      },
+      "Direction": 0,
+      "DestinationStopID": "5759",
+      "DestinationStopName": {
+        "Zh_tw": "佳里站",
+        "En": "Jiali Bus Station"
+      },
+      "StopUID": "TNN8616",
+      "StopID": "8616",
+      "StopName": {
+        "Zh_tw": "大聖廟",
+        "En": "Dasheng Temple"
+      },
+      "PlateNumb": "686-FS",
+      "EstimateTime": 1792,
+      "IsLastBus": false,
+      "CurrentStop": "17578",
+      "StopStatus": 0,
+      "StopCountDown": 17,
+      "DataTime": "2020-06-30T17:15:35+08:00",
+      "RecTime": "2020-06-30T17:15:35+08:00",
+      "TransTime": "2020-06-30T17:15:35+08:00"
+    },
+    {
+      "RouteUID": "TNN1200",
+      "RouteID": "1200",
+      "RouteName": {
+        "Zh_tw": "藍幹線",
+        "En": "Blue"
+      },
+      "SubRouteUID": "TNN120002",
+      "SubRouteID": "120002",
+      "SubRouteName": {
+        "Zh_tw": "藍幹線 佳里→安平工業區",
+        "En": "Blue Jiali Bus Station→Anping Industrial Park"
+      },
+      "Direction": 1,
+      "DestinationStopID": "5805",
+      "DestinationStopName": {
+        "Zh_tw": "安平工業區",
+        "En": "Anping Industrial Park"
+      },
+      "StopUID": "TNN8617",
+      "StopID": "8617",
+      "StopName": {
+        "Zh_tw": "大聖廟",
+        "En": "Dasheng Temple"
+      },
+      "PlateNumb": "067-U9",
+      "EstimateTime": 1012,
+      "IsLastBus": false,
+      "CurrentStop": "5769",
+      "StopStatus": 0,
+      "StopCountDown": 9,
+      "DataTime": "2020-06-30T17:15:46+08:00",
+      "RecTime": "2020-06-30T17:15:46+08:00",
+      "TransTime": "2020-06-30T17:15:46+08:00"
+    }
+  ]
 }
