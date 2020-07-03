@@ -4,7 +4,6 @@ import json
 import configparser
 from urllib import parse
 import Authorization
-import re
 
 config = configparser.ConfigParser()
 config.read("config.ini")
@@ -20,37 +19,40 @@ class Bus:
         self.routename = routename
         self.location = location
         if(direction == "去程"):
-            self.direction = "1"  # 回程
+            self.direction = 0  # 去程
         elif(direction == "回程"):
-            self.direction = "2"  # 返程
+            self.direction = 1  # 返程
         else:
-            self.direction = "0"  # 迴圈
+            self.direction = 2  # 迴圈
+
+    def check_direction(self):
+        pass
 
     def get_Estimated(self):
         # urllib.parse.quote() URL encode
         QUERY_OPTIONS = parse.quote(self.routename) + "?$format=JSON"
         RESOURCE_PATH = RESOURCE + QUERY_OPTIONS
         raw = requests.get(RESOURCE_PATH, headers=auth.get_auth_header()).json()
-        # print(json.dumps(raw, indent=4, ensure_ascii=False))
         data = raw["N1Datas"]
+        # print(json.dumps(data, indent=4, ensure_ascii=False))
+        token = 0
 
-        for x in data:
-            try:
-                # print(x["SubRouteUID"])
-                if(x["SubRouteUID"].endswith(self.direction)):
-                    if(x["StopName"]["Zh_tw"] == self.location):
-                        time = x["EstimateTime"]
-                        print(self.location, time)
-            except:
-                pass
+        # if the stop exists
+        if(data):
+            for x in data:
+                 if(x["StopName"]["Zh_tw"] == self.location):
+                    token = 1
+                    if(x["Direction"] == self.direction):
+                        destination = "往" + x["DestinationStopName"]["Zh_tw"]
+                        print(self.routename, self.location, x["EstimateTime"], destination)
+                        break
+
+            if(token == 0):
+                print("No such stop")
+        else:
+            print("No such routename")
 
 
 if __name__ == '__main__':
     auth = Authorization.Auth(APP_ID, APP_KEY)
-
-    # Fetche the RouteUID from file
-    with open("QueryResults/" + "Routes_info.json", 'r', encoding='utf-8') as outfile:
-        Route_UID_dict = json.loads(outfile.read())
-        outfile.close()
-
-    bus = Bus("藍幹線", "和順", "去程").get_Estimated()
+    bus_1 = Bus("藍幹線", "和順", "回程").get_Estimated()
