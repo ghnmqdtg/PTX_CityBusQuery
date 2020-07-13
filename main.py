@@ -3,7 +3,7 @@ import requests
 import configparser
 from urllib import parse
 import Authorization
-# import json
+import json
 
 config = configparser.ConfigParser()
 config.read("config.ini")
@@ -12,6 +12,10 @@ APP_ID = config["AUTH"]["APP_ID"]
 APP_KEY = config["AUTH"]["APP_KEY"]
 RESOURCE = config["API"]["Estimated_TNN"]
 
+
+def List_Dict_Converter(lst):
+    res_dct = {lst[i]: lst[i + 1] for i in range(0, len(lst), 2)}
+    return res_dct
 
 class Bus:
 
@@ -34,19 +38,33 @@ class Bus:
         raw = requests.get(RESOURCE_PATH, headers=auth.get_auth_header()).json()
         data = raw["N1Datas"]
         # print(json.dumps(data, indent=4, ensure_ascii=False))  # for testing
-        token = 0
 
+        function_type = "Bus"
+        description = "預估到站時間"
+        keyname = ["Type", "Description", "Routename", "Location", "EstimateTime", "destination"]
+
+        token = 0
         # if the stop exists
         if(data):
             # traverse the data dictionary
             for x in data:
                 # check if the stop name exists, if so, token = 1
-                 if(x["StopName"]["Zh_tw"] == self.location):
+                if(x["StopName"]["Zh_tw"] == self.location):
                     token = 1
                     if(x["Direction"] == self.direction):
                         destination = "往" + x["DestinationStopName"]["Zh_tw"]
-                        result = [self.routename, self.location, x["EstimateTime"], destination]
-                        print(result)
+                        estimate = str(x["EstimateTime"] // 60) + "分"
+                        list_results = [self.routename, self.location, estimate, destination]
+                        list_results.insert(0, function_type)
+                        list_results.insert(1, description)
+
+                        # Steps: list with keynames > dict  > final list for output
+                        # insert keynames into the list
+                        for num in range(0, len(keyname)):
+                            list_results.insert(num * 2, keyname[num])
+
+                        final_output = json.dumps(List_Dict_Converter(list_results), indent=4, ensure_ascii=False)
+                        print(final_output)
                         break
 
             # stop name not exists
@@ -59,4 +77,16 @@ class Bus:
 if __name__ == '__main__':
     # fetch the authorization headers
     auth = Authorization.Auth(APP_ID, APP_KEY)
-    bus_1 = Bus("藍幹線", "和順", "回程").get_Estimated()
+    bus_1 = Bus("18", "和順", "去程").get_Estimated()
+    # bus_2 = Bus("藍幹線", "和順", "去程").get_Estimated()
+
+'''
+{
+    "Type": "Bus",
+    "Description": "預估到站時間",
+    "Routename": "18",
+    "Location": "和順",
+    "EstimateTime": "3分",
+    "destination": "往塭南里"
+}
+'''
